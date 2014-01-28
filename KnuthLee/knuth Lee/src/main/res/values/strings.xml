@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Knuth Lee</string>
+    <string name="authorTwo">Berners Lee</string>
+    <string name="action_settings">Settings</string>
+    <string name="donaldDescription">This American computer scientist is considered to be the father of Analysis of Algorithms, one of the most complex principles underlying modern computer science. Knuth has contributed to several areas of research in theoretical computer science and is one of the most innovative and influential thinkers on the subject. Knuth received a Turing Award in 1974 for “The Art of Computer Programming,” a continuous series consisting of several volumes with the same name.</string>
+    <string name="leeDescription">Educated at Queens College, Oxford, Sir Tim Berners Lee moved into the field of computer science almost immediately upon receiving his physics degree and is widely known as the inventor of the World Wide Web. In 1989 Lee implemented the first successful communication between an HTTP client and server via what would become HTML. Lee helped invent and implement the language of the WWW, and his continued contributions have been significant as he continues to provide important input today on the still-growing infrastructure.</string>
+    <string name="authorOne">Donald Knuth</string>
+</resources>
